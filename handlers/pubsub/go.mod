@@ -1,6 +1,6 @@
 module example.com/go-folder-structure/handlers/pubsub
 
-go 1.17
+go 1.16
 
 require (
    example.com/go-folder-structure/model v0.0.0 

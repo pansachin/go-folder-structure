@@ -1,3 +1,3 @@
 module example.com/go-folder-structure/model
 
-go 1.17
+go 1.16

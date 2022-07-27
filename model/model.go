@@ -1,5 +1,9 @@
 package model
 
+import (
+	_ "github.com/GoogleCloudPlatform/functions-framework-go/funcframework"
+)
+
 type Model struct {
 	name string
 	age  int64
